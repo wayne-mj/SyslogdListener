@@ -8,7 +8,7 @@ This has been tested with Netgear routers and Dell iDrac logging.
 
 ## To build the SyslogdListener
 
-1. get clone https://github.com/warpkez/SyslogdListener.git
+1. git clone https://github.com/warpkez/SyslogdListener.git
 2. Make a build directory eg mkdir build 
 3. cd SyslogdListener
 4. dotnet build --output build --configuration Release .
