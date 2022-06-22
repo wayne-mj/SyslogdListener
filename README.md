@@ -11,7 +11,7 @@ This has been tested with Netgear routers and Dell iDrac logging.
 1. git clone https://github.com/warpkez/SyslogdListener.git
 2. Make a build directory eg mkdir build 
 3. cd SyslogdListener
-4. dotnet build --output build --configuration Release .
+4. dotnet build --output ..\build --configuration Release .
 
 ## Peculiarities 
 
