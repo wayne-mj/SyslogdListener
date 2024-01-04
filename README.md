@@ -29,7 +29,7 @@ This has been tested with Netgear routers and Dell iDrac logging.
 4. dotnet build --output ..\\\\build --configuration Release .
 
 ##### Screen grabs
-![Screen grab of running session!](https://diqda2sl5kdc9.cloudfront.net/images/syslogd.png/images/syslogd.png)
+![Screen grab of running session!](https://diqda2sl5kdc9.cloudfront.net/images/syslogd.png)
 
 ##### Peculiarities 
 
