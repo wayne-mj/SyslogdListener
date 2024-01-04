@@ -23,13 +23,13 @@ This has been tested with Netgear routers and Dell iDrac logging.
 
 ##### To build the SyslogdListener
 
-1. git clone https://github.com/warpkez/SyslogdListener.git
+1. git clone https://github.com/wayne-mj/SyslogdListener.git
 2. Make a build directory eg mkdir build 
 3. cd SyslogdListener
 4. dotnet build --output ..\\\\build --configuration Release .
 
 ##### Screen grabs
-![Screen grab of running session!](https://wmjcdn.azureedge.net/images/syslogd.png)
+![Screen grab of running session!](https://diqda2sl5kdc9.cloudfront.net/images/syslogd.png/images/syslogd.png)
 
 ##### Peculiarities 
 
