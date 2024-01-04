@@ -11,7 +11,7 @@ Further iterations included SQL databases.
 
 This version, written in C#, simply echos the messages to the screen and writes it out to a CSV file.
 
-[Repository location](https://github.com/warpkez/SyslogdListener)
+[Repository location](https://github.com/wayne-mj/SyslogdListener.git)
 
 ##### About the code
 
