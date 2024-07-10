@@ -4,9 +4,7 @@
 **It needs to be noted that this code was originally written to work with hardware that a vendor had implemented their own version of syslogd**
 
 
-When I started out with Unix systems administration, all logging was performed either to the console or the system log file, 
-SNMP was an option but in some cases it was a licensed option. If managing a small number of machines, 
-it was no trouble 'telneting' into system to check the logs, but checking the logs of a large number of machines could get tiresome fast.
+When I started out with Unix systems administration, all logging was performed either to the console or the system log file, SNMP was an option but in some cases it was a licensed option. If managing a small number of machines, it was no trouble 'telneting' into system to check the logs, but checking the logs of a large number of machines could get tiresome fast.
 
 I originally wrote this program in Visual Basic to receive the broadcasted messages and write them to a Access data file. 
 
